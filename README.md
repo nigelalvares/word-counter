@@ -11,7 +11,7 @@ After downloading the source code, open the command line and navigate to `word-c
 npm install
 
 # Step 2
-node main.js --path <filepath> --no-case-sensitivity
+node main.js --path <filepath>
 
 
 Argument                Required        Argument description
